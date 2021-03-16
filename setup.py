@@ -8,6 +8,15 @@ authors = [
         "Name" : "Aadam Lokhandwla",
         "Email" : "aadamlokhandwala786@gmail.com",
     },
+    {
+        "Name" : "Murtaza Cyclewala"
+        "Email" : "murtazacyclewala27@gmail.com"
+    }
+    {
+         "Name" : "Krutik Parmar"
+        "Email" : "krutikparmar106@gmail.com"
+    }
+    
 ]
 
 authors_string = ""

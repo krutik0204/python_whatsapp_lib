@@ -12,6 +12,10 @@ authors = [
         "Name" : "Murtaza Cyclewala"
         "Email" : "murtazacyclewala27@gmail.com"
     }
+    {
+         "Name" : "Krutik Parmar"
+        "Email" : "krutikparmar106@gmail.com"
+    }
     
 ]
 
